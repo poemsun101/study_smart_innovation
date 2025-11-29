@@ -333,3 +333,14 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }  
+![Image](https://github.com/user-attachments/assets/ced83e66-6ea2-483d-a602-73720575220c)
+
+![Image](https://github.com/user-attachments/assets/e9fa3e62-d78d-4451-97f5-5b846901f6de)
+
+![Image](https://github.com/user-attachments/assets/74f823d1-b245-4c0e-84b0-15f1e8f2709b)
+
+![Image](https://github.com/user-attachments/assets/22d9a7ba-4f0c-407b-8a48-30b5adb34667)
+
+![Image](https://github.com/user-attachments/assets/93f7b0ef-b87d-4cb6-993f-0f6df864d5fc)
+
+![Image](https://github.com/user-attachments/assets/5cec9122-abaa-4e10-9c3c-2dfcc008d4e7)
